@@ -1,6 +1,4 @@
-# CN Cloud Solutions
-
-Welcome to CN Cloud Solutions — your trusted partner for enterprise-grade cloud consulting, full-stack .NET development, and DevOps transformation.
+Welcome to CncloudSolutions — your trusted partner for enterprise-grade cloud consulting, full-stack .NET development, and DevOps transformation.
 
 ## 🚀 What We Do
 
