@@ -32,7 +32,7 @@ In addition to enterprise software, Court also runs [316 Superbike Camp](https:/
 
 ## 📫 Contact
 
-📧 Email: [info@cncloudsolutions.com](mailto:info@cncloudsolutions.com)  
+📧 Email: [info@cncloudsolutions.com](mailto:cnewman@cncloudsolutions.com)  
 🌐 Website: [https://cncloudsolutions.com](https://cncloudsolutions.com)
 
 ---
