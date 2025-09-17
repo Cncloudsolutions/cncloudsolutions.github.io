@@ -26,7 +26,7 @@ Whether you're launching a new product, modernizing legacy systems, or establish
 
 CN Cloud Solutions is led by Court Newman — a U.S. Army veteran, senior .NET architect, and software team lead with two decades of experience. Court is passionate about clean code, mentoring devs, and building solutions that just work.
 
-In addition to enterprise software, Court also runs [316 Superbike Camp](https://316superbikecamp.com), a Texas-based motorcycle track day school.
+In addition to enterprise software, Court is a partner with [316 Superbike Camp](https://316superbikecamp.com), a Texas-based motorcycle track day school.
 
 ## 📫 Contact
 
